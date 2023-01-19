@@ -8,3 +8,10 @@ Team members:
 - Fu, Mandy
 - Singh, Gurnoor
 - Salazar, Steven
+
+## Project Topic and Why we selected it
+
+
+## Data Description
+
+## What questions can our data answer?
