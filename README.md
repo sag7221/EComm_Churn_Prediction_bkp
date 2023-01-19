@@ -1,6 +1,6 @@
 # EComm_Churn_Prediction
 Predict churn rate and other exploratory analysis
-## Project Topic and Why we selected it
+## Project Topic and Why We Selected It
 
 ## Data Description
 
